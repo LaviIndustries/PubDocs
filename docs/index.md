@@ -101,4 +101,4 @@ with full auditing of user activities.
 (c) Direct administrative access to production systems must be kept to an
 absolute minimum.
 
-[hello](/docs/hello.md)
+[hello](/hello.md)
