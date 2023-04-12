@@ -101,4 +101,4 @@ with full auditing of user activities.
 (c) Direct administrative access to production systems must be kept to an
 absolute minimum.
 
-https://github.com/LaviIndustries/PubDocs/blob/main/docs/hello.md
+[hello](https://github.com/LaviIndustries/PubDocs/blob/main/docs/hello.md)
